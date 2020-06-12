@@ -1,0 +1,22 @@
+{
+  "name": "nwsl_scrapper",
+  "description": "web scrapper for NWSL",
+  "main": "index.js",
+  "authors": [
+    "gregory hasenauer"
+  ],
+  "license": "UNLICENSED",
+  "keywords": [
+    "web",
+    "scrapper",
+    "api"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
